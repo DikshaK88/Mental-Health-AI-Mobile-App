@@ -1,0 +1,188 @@
+{
+  "model_version": "1.0.0",
+  "best_model_name": "Random Forest",
+  "trained_at": "2026-10-18T12:21:13.820705+00:00",
+  "training_samples_count": 120,
+  "test_samples_count": 30,
+  "total_dataset_records": 150,
+  "random_forest": {
+    "accuracy": 0.8333333333333334,
+    "precision_macro": 0.8200000000000001,
+    "recall_macro": 0.7272727272727273,
+    "f1_macro": 0.7545008183306056,
+    "precision_class_1": 0.8,
+    "recall_class_1": 0.5,
+    "f1_class_1": 0.6153846153846154,
+    "confusion_matrix": [
+      [
+        21,
+        1
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.84,
+        "recall": 0.9545454545454546,
+        "f1-score": 0.8936170212765957,
+        "support": 22.0
+      },
+      "1": {
+        "precision": 0.8,
+        "recall": 0.5,
+        "f1-score": 0.6153846153846154,
+        "support": 8.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8200000000000001,
+        "recall": 0.7272727272727273,
+        "f1-score": 0.7545008183306056,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 0.8293333333333334,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8194217130387342,
+        "support": 30.0
+      }
+    },
+    "roc_auc": 0.9375,
+    "model_name": "Random Forest"
+  },
+  "xgboost": {
+    "accuracy": 0.8333333333333334,
+    "precision_macro": 0.8200000000000001,
+    "recall_macro": 0.7272727272727273,
+    "f1_macro": 0.7545008183306056,
+    "precision_class_1": 0.8,
+    "recall_class_1": 0.5,
+    "f1_class_1": 0.6153846153846154,
+    "confusion_matrix": [
+      [
+        21,
+        1
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.84,
+        "recall": 0.9545454545454546,
+        "f1-score": 0.8936170212765957,
+        "support": 22.0
+      },
+      "1": {
+        "precision": 0.8,
+        "recall": 0.5,
+        "f1-score": 0.6153846153846154,
+        "support": 8.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8200000000000001,
+        "recall": 0.7272727272727273,
+        "f1-score": 0.7545008183306056,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 0.8293333333333334,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8194217130387342,
+        "support": 30.0
+      }
+    },
+    "roc_auc": 0.9147727272727273,
+    "model_name": "XGBoost"
+  },
+  "best_metrics": {
+    "accuracy": 0.8333333333333334,
+    "precision_macro": 0.8200000000000001,
+    "recall_macro": 0.7272727272727273,
+    "f1_macro": 0.7545008183306056,
+    "precision_class_1": 0.8,
+    "recall_class_1": 0.5,
+    "f1_class_1": 0.6153846153846154,
+    "confusion_matrix": [
+      [
+        21,
+        1
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.84,
+        "recall": 0.9545454545454546,
+        "f1-score": 0.8936170212765957,
+        "support": 22.0
+      },
+      "1": {
+        "precision": 0.8,
+        "recall": 0.5,
+        "f1-score": 0.6153846153846154,
+        "support": 8.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8200000000000001,
+        "recall": 0.7272727272727273,
+        "f1-score": 0.7545008183306056,
+        "support": 30.0
+      },
+      "weighted avg": {
+        "precision": 0.8293333333333334,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8194217130387342,
+        "support": 30.0
+      }
+    },
+    "roc_auc": 0.9375,
+    "model_name": "Random Forest"
+  },
+  "feature_importances": {
+    "financial_stress": 0.23643029928988257,
+    "academic_pressure": 0.21913370043957506,
+    "attendance": 0.1435697972816644,
+    "age": 0.06628199476690108,
+    "study_satisfaction": 0.0616542121106588,
+    "study_hours": 0.05704045865272599,
+    "social_support_Low": 0.03473595509032298,
+    "sleep_duration_Less than 5 hours": 0.02933762505479312,
+    "sleep_duration_7-8 hours": 0.024646014582977816,
+    "gender_Female": 0.020123963964453984,
+    "family_history_Yes": 0.018074561505086916,
+    "sleep_duration_5-6 hours": 0.016902871701300386,
+    "social_support_High": 0.016797403745638918,
+    "gender_Male": 0.015038500229915744,
+    "sleep_duration_More than 8 hours": 0.014575589208330431,
+    "family_history_No": 0.014504185041836613,
+    "social_support_Medium": 0.011152867333935047
+  },
+  "features": {
+    "numerical": [
+      "age",
+      "academic_pressure",
+      "study_satisfaction",
+      "study_hours",
+      "financial_stress",
+      "attendance"
+    ],
+    "categorical": [
+      "gender",
+      "sleep_duration",
+      "social_support",
+      "family_history"
+    ],
+    "target": "depression"
+  }
+}

@@ -1,0 +1,151 @@
+student_id,age,gender,academic_pressure,study_satisfaction,sleep_duration,study_hours,financial_stress,social_support,family_history,attendance,depression
+1001,24,Male,1,4,7-8 hours,1,5,Low,No,62,1
+1002,21,Male,1,5,More than 8 hours,9,2,Medium,Yes,91,0
+1003,22,Male,3,4,More than 8 hours,8,5,Low,No,57,0
+1004,24,Male,2,1,5-6 hours,1,3,High,Yes,87,0
+1005,20,Male,5,4,Less than 5 hours,6,3,Low,Yes,82,1
+1006,25,Female,4,3,7-8 hours,5,3,Low,Yes,62,1
+1007,22,Male,2,4,More than 8 hours,6,3,Low,No,88,0
+1008,22,Female,4,2,More than 8 hours,10,1,Low,Yes,89,1
+1009,24,Male,3,2,7-8 hours,5,3,High,Yes,86,0
+1010,19,Female,3,3,5-6 hours,6,4,High,No,78,0
+1011,20,Male,1,1,More than 8 hours,5,4,Medium,No,68,0
+1012,24,Male,5,2,Less than 5 hours,5,1,High,No,86,0
+1013,20,Female,4,5,More than 8 hours,4,3,High,No,100,0
+1014,20,Female,2,2,Less than 5 hours,3,3,Medium,Yes,97,0
+1015,25,Female,3,2,7-8 hours,3,3,High,Yes,70,0
+1016,22,Male,1,1,Less than 5 hours,4,5,Low,Yes,58,1
+1017,21,Female,1,4,7-8 hours,9,2,Low,Yes,91,0
+1018,25,Male,4,2,Less than 5 hours,2,5,Medium,No,75,1
+1019,25,Male,3,3,7-8 hours,9,2,Medium,Yes,68,0
+1020,20,Female,5,4,Less than 5 hours,1,3,Medium,Yes,85,1
+1021,23,Female,3,5,5-6 hours,1,3,Low,No,72,0
+1022,22,Male,4,1,Less than 5 hours,5,5,High,Yes,61,1
+1023,19,Male,4,5,Less than 5 hours,6,5,Low,Yes,64,1
+1024,25,Female,3,4,5-6 hours,6,2,Medium,Yes,61,0
+1025,21,Female,4,4,More than 8 hours,3,4,High,Yes,87,1
+1026,23,Female,3,4,More than 8 hours,7,2,High,Yes,77,0
+1027,23,Male,2,5,Less than 5 hours,9,5,Low,Yes,75,1
+1028,19,Male,3,4,5-6 hours,10,5,Medium,No,73,0
+1029,25,Male,3,5,Less than 5 hours,8,1,Low,No,73,0
+1030,21,Male,4,4,7-8 hours,6,5,High,Yes,90,1
+1031,22,Male,4,3,7-8 hours,8,1,Low,Yes,83,0
+1032,18,Male,1,4,Less than 5 hours,5,4,Low,No,72,1
+1033,21,Female,1,5,More than 8 hours,8,2,Medium,Yes,56,0
+1034,19,Male,2,2,More than 8 hours,10,2,Medium,Yes,55,0
+1035,23,Male,1,4,Less than 5 hours,4,1,High,Yes,59,0
+1036,22,Male,3,2,Less than 5 hours,10,2,Low,No,74,0
+1037,21,Female,4,3,7-8 hours,8,5,Low,Yes,65,1
+1038,18,Male,1,1,More than 8 hours,10,3,Low,No,96,0
+1039,18,Male,1,3,Less than 5 hours,2,1,High,Yes,56,0
+1040,20,Female,2,4,7-8 hours,5,2,High,No,57,0
+1041,20,Male,2,2,More than 8 hours,9,1,Medium,No,77,0
+1042,24,Male,3,2,5-6 hours,4,1,Medium,Yes,66,0
+1043,19,Male,4,5,7-8 hours,6,3,Medium,No,74,0
+1044,25,Male,2,2,More than 8 hours,1,5,Low,Yes,59,1
+1045,21,Male,1,5,More than 8 hours,9,1,Low,No,91,0
+1046,21,Female,4,1,7-8 hours,1,2,Medium,Yes,92,0
+1047,25,Female,4,4,5-6 hours,5,4,Low,Yes,84,1
+1048,24,Female,1,5,7-8 hours,4,1,Medium,No,63,0
+1049,23,Male,2,1,More than 8 hours,3,1,High,Yes,88,0
+1050,23,Male,1,2,Less than 5 hours,6,3,Medium,Yes,98,0
+1051,24,Male,4,2,Less than 5 hours,2,5,High,No,89,1
+1052,23,Female,5,1,7-8 hours,3,4,Low,Yes,76,1
+1053,20,Male,5,2,More than 8 hours,5,2,Medium,Yes,98,0
+1054,21,Male,3,1,Less than 5 hours,9,4,Low,No,78,0
+1055,24,Female,1,5,More than 8 hours,2,2,High,No,71,0
+1056,21,Male,1,5,7-8 hours,10,5,High,Yes,64,0
+1057,25,Female,3,1,Less than 5 hours,8,2,High,Yes,84,0
+1058,18,Female,3,5,More than 8 hours,2,3,Low,No,100,0
+1059,20,Female,3,5,Less than 5 hours,5,3,Low,No,77,0
+1060,22,Male,4,5,7-8 hours,7,3,Low,Yes,86,0
+1061,20,Male,1,3,More than 8 hours,8,3,Low,No,71,0
+1062,24,Male,4,4,Less than 5 hours,1,4,High,Yes,71,1
+1063,22,Male,3,2,7-8 hours,6,5,High,Yes,68,0
+1064,18,Male,1,3,Less than 5 hours,1,2,Medium,Yes,63,0
+1065,24,Male,4,5,Less than 5 hours,2,2,Medium,Yes,94,0
+1066,19,Male,4,1,5-6 hours,1,3,Low,Yes,56,1
+1067,21,Female,3,5,5-6 hours,5,3,High,No,99,0
+1068,18,Male,1,4,7-8 hours,10,1,High,No,79,0
+1069,21,Female,3,5,5-6 hours,9,5,High,No,93,0
+1070,23,Male,1,1,7-8 hours,6,4,Medium,No,63,1
+1071,19,Male,5,4,5-6 hours,1,2,Medium,Yes,76,0
+1072,19,Male,2,5,Less than 5 hours,1,1,High,Yes,97,0
+1073,18,Female,2,4,7-8 hours,2,1,High,Yes,100,0
+1074,19,Female,2,2,7-8 hours,9,2,High,Yes,58,0
+1075,22,Female,3,2,Less than 5 hours,3,4,Medium,No,80,1
+1076,19,Female,5,5,7-8 hours,1,1,High,Yes,83,0
+1077,21,Male,1,4,7-8 hours,5,1,High,Yes,99,0
+1078,21,Female,4,1,5-6 hours,7,5,Low,No,88,1
+1079,24,Male,1,5,7-8 hours,6,4,Low,No,77,0
+1080,21,Male,4,2,More than 8 hours,1,1,Medium,No,91,0
+1081,24,Female,1,2,Less than 5 hours,5,4,High,No,65,1
+1082,21,Female,5,5,5-6 hours,5,2,High,Yes,60,1
+1083,22,Female,4,4,5-6 hours,6,3,Low,Yes,72,0
+1084,25,Female,3,2,More than 8 hours,3,1,Medium,No,75,0
+1085,24,Female,1,4,Less than 5 hours,5,5,Low,Yes,96,0
+1086,20,Female,1,2,Less than 5 hours,7,2,Low,Yes,90,0
+1087,23,Female,4,2,5-6 hours,5,4,Low,Yes,95,1
+1088,18,Female,3,3,7-8 hours,5,2,Low,No,92,0
+1089,21,Male,3,2,5-6 hours,5,1,High,Yes,88,0
+1090,19,Female,5,1,Less than 5 hours,10,4,High,No,71,1
+1091,25,Female,3,5,More than 8 hours,10,3,Low,Yes,91,0
+1092,21,Male,3,5,5-6 hours,3,2,Medium,Yes,79,0
+1093,19,Female,3,4,Less than 5 hours,1,1,Medium,Yes,92,0
+1094,23,Male,2,2,5-6 hours,5,5,Medium,No,66,1
+1095,23,Male,5,1,7-8 hours,9,4,Medium,Yes,77,1
+1096,23,Female,1,4,5-6 hours,1,2,Low,No,96,0
+1097,19,Male,4,3,5-6 hours,3,2,High,No,76,0
+1098,21,Male,1,4,Less than 5 hours,4,3,Medium,No,75,0
+1099,23,Male,5,4,Less than 5 hours,1,3,Low,Yes,81,1
+1100,22,Male,4,2,Less than 5 hours,1,5,Medium,Yes,85,1
+1101,24,Female,5,3,5-6 hours,8,5,Medium,Yes,60,0
+1102,19,Male,3,4,7-8 hours,2,1,Low,Yes,81,0
+1103,19,Female,4,1,More than 8 hours,8,1,High,No,94,0
+1104,21,Male,3,1,More than 8 hours,7,5,High,No,88,0
+1105,19,Male,1,5,Less than 5 hours,10,5,Low,No,66,0
+1106,19,Male,1,3,Less than 5 hours,10,4,High,Yes,99,0
+1107,23,Male,4,3,5-6 hours,2,3,Low,No,61,1
+1108,21,Female,4,5,More than 8 hours,6,1,Low,Yes,64,1
+1109,23,Female,5,4,Less than 5 hours,6,3,Low,No,99,1
+1110,24,Male,5,3,7-8 hours,3,3,High,Yes,71,0
+1111,25,Male,3,1,7-8 hours,2,5,Low,Yes,80,0
+1112,24,Female,4,1,Less than 5 hours,1,4,Medium,No,75,1
+1113,25,Male,1,2,Less than 5 hours,6,2,High,No,82,0
+1114,23,Male,5,3,More than 8 hours,5,4,High,No,100,0
+1115,24,Male,5,4,More than 8 hours,9,4,High,No,56,1
+1116,21,Female,1,5,5-6 hours,1,3,High,Yes,97,0
+1117,18,Female,5,5,More than 8 hours,7,4,Medium,No,55,1
+1118,23,Female,3,4,7-8 hours,5,1,High,No,90,0
+1119,25,Male,4,2,7-8 hours,5,3,High,No,80,0
+1120,22,Male,1,5,Less than 5 hours,2,1,Low,Yes,83,0
+1121,25,Female,4,3,More than 8 hours,3,2,High,Yes,75,0
+1122,22,Female,5,2,5-6 hours,7,3,Medium,No,65,1
+1123,19,Female,5,3,7-8 hours,6,2,Medium,Yes,94,0
+1124,24,Female,1,1,7-8 hours,2,3,Medium,No,65,0
+1125,22,Male,3,2,5-6 hours,6,5,Medium,Yes,90,0
+1126,25,Female,2,5,5-6 hours,2,4,High,Yes,93,0
+1127,19,Male,1,2,7-8 hours,2,5,High,Yes,94,0
+1128,18,Female,2,2,7-8 hours,2,2,Medium,Yes,89,0
+1129,21,Male,2,2,5-6 hours,3,4,Medium,No,88,0
+1130,21,Female,3,2,7-8 hours,2,3,High,No,78,0
+1131,21,Female,2,3,Less than 5 hours,4,4,Medium,No,76,0
+1132,22,Female,2,1,Less than 5 hours,9,1,Low,Yes,59,1
+1133,18,Female,3,4,5-6 hours,6,4,Medium,No,87,0
+1134,22,Male,2,2,More than 8 hours,1,1,Medium,No,90,0
+1135,24,Female,2,5,5-6 hours,8,4,Low,No,74,0
+1136,22,Male,2,2,5-6 hours,7,1,Low,Yes,73,0
+1137,18,Male,1,5,More than 8 hours,10,2,High,Yes,89,0
+1138,18,Male,1,3,More than 8 hours,3,5,High,Yes,97,0
+1139,24,Male,1,5,More than 8 hours,1,3,Low,No,71,0
+1140,18,Female,3,4,Less than 5 hours,5,4,Low,No,99,1
+1141,25,Male,5,1,7-8 hours,4,5,High,No,97,1
+1142,18,Male,2,5,Less than 5 hours,10,3,Medium,Yes,88,0
+1143,21,Male,2,5,7-8 hours,8,3,Low,Yes,63,0
+1144,25,Female,3,1,Less than 5 hours,1,1,High,No,80,0
+1145,25,Female,2,4,7-8 hours,10,2,Medium,Yes,56,0
+1146,24,Female,1,2,Less than 5 hours,1,2,Low,Yes,63,0
+1147,20,Female,5,5,More than 8 hours,4,5,Medium,Yes,63,1
+1148,20,Male,4,1,5-6 hours,8,2,High,Yes,94,0
+1149,18,Male,2,3,Less than 5 hours,5,4,Low,No,71,0
+1150,25,Female,1,1,7-8 hours,2,2,Medium,Yes,55,0
